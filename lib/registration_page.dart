@@ -54,8 +54,7 @@ class _RegistrationPageState extends State<RegistrationPage> {
   bool _agree3 = false;
   bool _agree4 = false;
 
-
-//  الكود المريب كلاود قال لي احطه
+  //  الكود المريب كلاود قال لي احطه
   @override
   void dispose() {
     _uniCtrl.dispose();
